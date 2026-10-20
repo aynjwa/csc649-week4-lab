@@ -1,7 +1,7 @@
 # Tech Stack Evaluation
 
 ## Project
-[Name of your Assignment 1 or FYP project, in one line]
+Chili leaf disease detection and early advisory
 
 ## Requirements that drive the decision
 List 3 to 5 requirements from your own docs/requirements.md. Include at
